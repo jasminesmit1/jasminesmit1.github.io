@@ -2,9 +2,7 @@
 /*************************************
 GENERAL
 **************************************/
-a {
- text-decoration: none;
- }
+
 
 img {
 max-width: 100%;
@@ -59,10 +57,10 @@ header {
 
  h1  {
  font-family: 'Changa One', sans-serif;
- margin: 10px 0;
- font-size: 1.75em;
- font-weight: normal;
- line-height: 0.5;
+ margin: 50px 0;
+ font-size: 3em;
+ font-weight: bold;
+ line-height: 100px;
  text-align: center;
  color: 	#FF0000;
 
@@ -132,7 +130,7 @@ PAGE:
 .myimage {
     float:left;
     width:150px;
-    height:175px;
+    height:200px;
     margin:20px;
     border-radius: 20px;
 }
