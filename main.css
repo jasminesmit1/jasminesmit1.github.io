@@ -18,7 +18,7 @@ max-width: 100%;
 
  #wrapper {
    max-width: 940px;
-   margin: 0 auto;
+
    padding: 0 5%;
 
  }
@@ -31,7 +31,7 @@ max-width: 100%;
  }
 
  h3 {
-     margin: 0 0 1em 0;
+
  }
 
 
@@ -57,10 +57,10 @@ header {
 
  h1  {
  font-family: 'Changa One', sans-serif;
- margin: 50px 0;
+ margin: 5px 0;
  font-size: 3em;
  font-weight: bold;
- line-height: 100px;
+ line-height: 50px;
  text-align: center;
  color: 	#FF0000;
 
@@ -69,8 +69,8 @@ header {
  h2  {
 
 
- font-size: 1.00em;
- font-weight: normal;
+ font-size: 3.00em;
+ font-weight:bold;
  margin: -5px 0 0;
  }
 
@@ -162,7 +162,7 @@ COLORS
  /* logo text*/
 
  h1,h2  {
-    color: #32673f;
+    color:white;
 }
 
 /* nav background on mobile devices*/

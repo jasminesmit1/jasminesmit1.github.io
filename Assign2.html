@@ -15,23 +15,43 @@
 <br>
 <style>
     body{
-        background-color:grey;
+        background-color:gray;
     }
     h1{
         color:white;
         background-color:red;
+        text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        border:1px solid black;
         }
      p{
         color:white;
-        z-index:2;
-
+        font-weight:bold;
+        line-height:1.7em;
+        text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
      }
      #maverick{
        z-index:1;
-       width:300px;
-       height:500px;
-       float:left;
-       margin-right:0px;
+       position:relative;
+       left:390px;
+       width:550px;
+       opacity:0.2;
+       margin:0px 0px 0px 0px;
+     }
+     #wrapper{
+        z-index:2;
+        position:absolute;
+        top:200px;
+        left:100px;
+     }
+     .bar{
+        font-size:15px;
+     }
+     h3{
+       color:white;
+       text-align:center;
+     }
+     .goto{
+     text-decoration:underline;
      }
 </style>
 
@@ -59,19 +79,11 @@
             the sponsor/product owner of additional projects.
             </p>
             <br>
-            <br>
             <hr>
-
-            <p>
-            This is a sample site to demonstrate HTML and CSS skills. They will be needed as you develop
-            your web applications
-            </p>
-
-
 
       </section>
   </div>
-
+<h3> <span class="goto">Home</span> <span class="bar"> |</span><span class="goto"> Jasmine's Favorites</span></h3>
 
 
 
