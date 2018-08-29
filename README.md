@@ -1,1 +1,2 @@
 # jasminesmit1.github.io
+This a personal website introducing myself, Jasmine Smith. The website includes two pages titled Jasmine's page containing a brief bio and profile picture, as well as a link to the second page. The second page is titled Jasmine's favorites it includes a list of facts of about me and a link to the homepage. Files included in this respository include: an index.html-my home page,favorites.html-my second page, main.css- my stylesheet. 
