@@ -5,7 +5,7 @@ GENERAL
 
 
 img {
-max-width: 100%;
+max-width: 940px;
 
 }
 
@@ -17,7 +17,7 @@ max-width: 100%;
 
 
  #wrapper {
-   max-width: 940px;
+   max-width: 100%
 
    padding: 0 5%;
 
@@ -132,7 +132,8 @@ PAGE:
     width:175px;
     height:275px;
     margin:20px;
-    margin-right:6px;
+    margin-right:10px;
+    margin-bottom:6px;
     border-radius: 20px;
 }
 
